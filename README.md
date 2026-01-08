@@ -4,7 +4,7 @@
 ### Project Overview
 Comprehensive strategic analysis and financial business case for English Hub's digital transformation. Based on primary and secondary market research, this project demonstrates strategic business analysis, competitive positioning, financial modeling, and implementation roadmap for online education platform expansion across India.
 
-### Amazon JD Alignment
+
 - **Strategic Business Analysis:** Market analysis, competitive positioning, business requirements definition
 - **Financial Modeling:** Revenue projections, cost estimation, ROI analysis, break-even calculations
 - **Data Analysis:** Market trends, customer insights, financial metrics analysis
