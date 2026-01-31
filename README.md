@@ -1,4 +1,8 @@
 # English Hub - Digital Expansion Strategy
+
+## 📊 [View Complete Visualization Dashboard](VISUALIZATIONS.md)
+
+> **EdTech Strategy Visualizations**: Explore 10 comprehensive charts covering market opportunity, customer acquisition, geographic penetration, CLV analysis, pricing optimization, and financial projections with detailed strategic insights for English Hub's digital expansion in India.
 ## Strategic Analysis for EdTech Platform Growth in India
 
 ### Project Overview
